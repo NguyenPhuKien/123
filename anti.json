@@ -1,0 +1,76 @@
+{
+    "boxname": [
+        {
+            "threadID": "6278473602192384",
+            "name": "Nhóm Quản Lý Bot"
+        },
+        {
+            "threadID": "4454061187960440",
+            "name": "ღ 𝕊𝕀ℕ𝔼 𝕿𝖊𝖆𝖒 - 𝕊𝕒𝕪 𝕀𝕤 ℕ𝕠𝕥 𝔼𝕟𝕠𝕦𝕘𝕙𝕥 ღ"
+        },
+        {
+            "threadID": "6397562940360977",
+            "name": "BAD 丶Esport"
+        },
+        {
+            "threadID": "5137674666344049",
+            "name": "NT•FoxTeam"
+        },
+        {
+            "threadID": "6796224513786161",
+            "name": "Clan HeloSunShine"
+        },
+        {
+            "threadID": "9449218925151336",
+            "name": "『 ᴄᴡ 』ᥒᥱᥕs⍴ᥲ⍴ᥱr s𝗊ᥙᥲძ☆"
+        },
+        {
+            "threadID": "6430662703613524",
+            "name": "ᴘᴀɴᴛʜᴇʀs ᴛᴇᴀᴍ ♥︎"
+        },
+        {
+            "threadID": "6611159175597849",
+            "name": "𝗛𝗲𝗮𝗿𝘁 𝗪𝗮𝗿𝗺𝗲𝗿𝘀⛅️"
+        }
+    ],
+    "boximage": [
+        {
+            "threadID": "6278473602192384",
+            "url": "https://i.imgur.com/TzshCzq.jpg"
+        },
+        {
+            "threadID": "6224355794251520",
+            "url": "https://i.imgur.com/3KphspF.jpg"
+        },
+        {
+            "threadID": "6397562940360977",
+            "url": "https://i.imgur.com/OLxeQrc.jpg"
+        },
+        {
+            "threadID": "5137674666344049",
+            "url": "https://i.imgur.com/barQmwd.jpg"
+        },
+        {
+            "threadID": "6796224513786161",
+            "url": "https://i.imgur.com/9Ff56rF.jpg"
+        },
+        {
+            "threadID": "9449218925151336",
+            "url": "https://i.imgur.com/4iHIskp.jpg"
+        },
+        {
+            "threadID": "6430662703613524",
+            "url": "https://i.imgur.com/WOJ1VBl.jpg"
+        },
+        {
+            "threadID": "6611159175597849",
+            "url": "https://i.imgur.com/5FQzwgr.jpg"
+        }
+    ],
+    "antiout": {
+        "6276014595842404": false,
+        "6278473602192384": false,
+        "9449218925151336": false
+    },
+    "antiNickname": []
+}

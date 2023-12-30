@@ -1,0 +1,65 @@
+[
+    {
+        "key": "sb",
+        "value": "mW3KZGwOtwUvo2EhVIvZQJiH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "datr",
+        "value": "mm3KZB8lgJL2XicyD1W5TQWY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100059538169739",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "wd",
+        "value": "1920x963",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1695427467560%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "xs",
+        "value": "49%3AdvSOEXHnD6Yqhw%3A2%3A1693146136%3A-1%3A6270%3A%3AAcV1b7jE4dRczYsuq2qcbfPXfjBBhjuXggFT0wNM2so",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.319Z",
+        "lastAccessed": "2023-09-23T00:06:42.319Z"
+    },
+    {
+        "key": "fr",
+        "value": "0cmgrHC6ypn2wGshq.AWUEXudfob0j_YkOaZ3cA9N6m5c.BlDiv6.i4.AAA.0.0.BlDiv6.AWWc-Rj9pmk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-09-23T00:06:42.320Z",
+        "lastAccessed": "2023-09-23T00:06:42.320Z"
+    }
+]
